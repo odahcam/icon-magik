@@ -29,3 +29,4 @@
 
 - Sublime Text 3: https://www.sublimetext.com
 - Atom: https://atom.io
+- Notepad++: https://notepad-plus-plus.org/download/
