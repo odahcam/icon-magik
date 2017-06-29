@@ -9,7 +9,7 @@
     font-family: "Icon Magik";
     src: url("imagik.woff") format("woff");
     src: url("imagik.eot");
-    src: url("imagik.eot#?iefix") format("embedded-opentype"),url("imagik.woff") format("woff"),url("imagik.ttf") format("truetype"),url("imagik.otf") format("opentype"),url("imagik.svg#imagik") format("svg");
+    src: url("imagik.eot#?iefix") format("embedded-opentype"),url("imagik.woff") format("woff"),url("imagik.ttf") format("truetype"),url("imagik.otf") format("opentype"),url("imagik.svg#Imagik") format("svg");
     font-weight: normal;
     font-style: normal;
 }
