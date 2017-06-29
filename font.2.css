@@ -1,0 +1,45 @@
+﻿/**
+ * Icon Magik
+ * @author Luiz Filipe Machado Barni <luiz@h2k.com.br> (odahcam)
+ * @version 1.0
+ * @date 2016_06_20
+ */
+@charset "UTF-8";
+
+@font-face {
+    font-family: "Icon Magik";
+    src: url(imagik.woff) format("woff");
+    src: url(imagik.eot);
+    src: url(imagik.eot#?iefix) format("embedded-opentype"),url(imagik.woff) format("woff"),url(imagik.ttf) format("truetype"),url(imagik.otf) format("opentype"),url(imagik.svg#imagik) format("svg");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    @font-face {
+        font-family: "Icon Magik";
+        src: url(imagik.svg#imagik) format("svg");
+    }
+}
+
+.icon-magick, .icon-magik, .imagik {
+    font-family: "Icon Magik" !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-variant: normal !important;
+    text-transform: none !important;
+    speak: none;
+    line-height: 1em !important;
+    letter-spacing: normal;
+    word-wrap: normal;
+    white-space: nowrap;
+    direction: ltr;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+    font-feature-settings: 'liga';
+}
+
+.icon-magick.block, .icon-magik.block, .imagik.block {
+    display: block;
+}
