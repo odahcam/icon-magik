@@ -5,7 +5,7 @@
 
 ### Características
 - CSS para produção com aproximadamente ~1Kb.
-- Fontes mapeadas internamente com suporte à *ligatures* (juntar dois ou mais caracteres em apenas 1).
+- Fontes mapeadas internamente com suporte à *ligatures*.
 
 ### Lugares para baixar ícones
 
@@ -25,8 +25,13 @@
 - FontForge: https://fontforge.github.io/en-US/
 - Fontself: https://www.fontself.com/ (ótimo com o Illustrator)
 
+
+#### Conversão de fontes
+
+- FontForge: https://fontforge.github.io/en-US/
+- Fontself: https://www.fontself.com/ (ótimo com o Illustrator)
+
 #### Edição de código fonte
 
-- Sublime Text 3: https://www.sublimetext.com
-- Atom: https://atom.io
-- Notepad++: https://notepad-plus-plus.org/download/
+- Online Font Converter: https://onlinefontconverter.com/
+- Font Squirrel Generator: https://www.fontsquirrel.com/tools/webfont-generator
